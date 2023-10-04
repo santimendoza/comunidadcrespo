@@ -1,0 +1,60 @@
+.App {
+  background-color: #e2e9f2;
+}
+
+.form-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.form-title {
+  /* align-self: center; */
+  padding: 15px;
+}
+
+.content-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.img-container img {
+  width: 40vw;
+}
+
+.form-container {
+  margin-left: 20px;
+  min-width: 50vw;
+}
+
+.submit-button {
+  margin-top: 20px;
+}
+
+.whatsapp-container {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.whatsapp-container img {
+  width: 100px;
+}
+
+.whatsapp-message {
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .img-container {
+    display: none;
+  }
+
+  .form-container {
+    width: calc(100vw - 30px);
+    padding: 15px;
+    margin-left: 0;
+  }
+}
