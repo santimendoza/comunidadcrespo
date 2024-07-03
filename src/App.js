@@ -19,7 +19,7 @@ function App() {
     },
     {
       name: 'Link Miembros Comunidad',
-      url: 'https://forms.gle/oACG9pzHUtuhFGay5',
+      url: 'https://forms.gle/gns5YLxwQMXREH3B6',
     },
   ];
 
