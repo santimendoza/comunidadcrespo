@@ -14,11 +14,7 @@ function App() {
       image: whatsappIcon,
     },
     {
-      name: 'Registro Nuevos',
-      url: 'https://forms.gle/oACG9pzHUtuhFGay5',
-    },
-    {
-      name: 'Link Miembros Comunidad',
+      name: '¡Dejanos tus datos!',
       url: 'https://forms.gle/gns5YLxwQMXREH3B6',
     },
   ];
